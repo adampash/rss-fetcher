@@ -1,7 +1,5 @@
-rss-fetcher
+RSS Fetcher
 ===========
-
-# RSS Fetcher
 
 This is a simple implementation of a Google Chrome extension, made in conjunction with [this guide I wrote on Lifehacker](http://lifehacker.com/5857721/how-to-build-a-chrome-extension).
 
